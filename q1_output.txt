@@ -1,0 +1,85 @@
+begin-query:32, end-query:992, begin-db:17, end-db:985, score:119, length:1247
+
+Query  32    CCTA-AAACCACTCC----GCAGAA--AAAG--AATA--AG--GCCAAAACACGACTAAA
+             || | |||||| |||      ||||  ||||  ||||  ||    |||||||  | |  |
+Sbjct  17    CC-AGAAACCA-TCCTAAA--AGAAGGAAAGCAAATAGGAGAA--CAAAACA--A-T--A
+
+Query  92    ATCGAAAGAC-ATGACAAGTAAACGAGAAAAGAAA-A-ATA-AA-CGACATACACACTTG
+             ||| |||| | ||    | |||| | |   ||||| | | | || || | ||||| |   
+Sbjct  77    ATC-AAAG-CGAT----A-TAAA-G-G---AGAAACATA-ACAACCG-C-TACAC-C---
+
+Query  152   TAGGA--A-A--A-ATAA-GAAA-A-AGGGGGAGACGAAGCAAAGA-AAGGGCAGCTAAC
+              |  |  | |  | | || |||| | |     || |   |||||||  |    || | ||
+Sbjct  137   -A--ATCACACCACA-AAGGAAAGATA-----AG-C---GCAAAGAG-A----AG-T-AC
+
+Query  212   CCT-CA-A---GGA-AGAACCAGACA-GAATAAGA--A-AA---ACCCGAAA-GCCACC-
+             ||| || |     |   ||||| | |  || ||||  | ||   |   |||| |||||| 
+Sbjct  197   CCTGCATACCT--AC--AACCA-A-AT-AA-AAGAGGAGAACTGA---GAAACGCCACCA
+
+Query  272   AAA-TGAAA-G-GAC-AATAACACCTAA-GAGCAA--AAT--CAATAA--A--A-CACCG
+             |||   ||| | |||  || | | |||| ||  ||  |||   || ||  |  |  |  |
+Sbjct  257   AAAC--AAACGTGACG-AT-A-A-CTAATGA--AACGAATGA-AA-AAGGAGGAT-A--G
+
+Query  332   ATCCTC-----C---GAGGAT-AACCA-AGA-GAGACCTAAGAACGAC-A--AG-AAACC
+             | ||||     |   || ||| || ||  ||  ||  |||| || ||| |  || |||  
+Sbjct  317   A-CCTCAAATTCAAAGA-GATGAA-CAT-GAC-AG--CTAA-AA-GACAACGAGCAAA--
+
+Query  392   AATG--A--A-A-GA-AA--AAG---AA-A--ATGGA-CATCAGAACGA-CTTAGAA-TG
+             ||||  |  | |  | ||  |||   || |  | ||| |  |  ||||| |   |||  |
+Sbjct  377   AATGCTAGGAGAC-ATAACCAAGCTAAAGACCA-GGACC--C--AACGACC---GAAC-G
+
+Query  452   CTGGGAA-AA-AGAAAAATT------ATAAACGAA-G-G-A-TG-G---G--CATAAATT
+             |    || ||  | ||||||      | |||  || | | |  | |   |  | ||||  
+Sbjct  437   C----AAGAAT-G-AAAATTAGCCCCA-AAA--AACGCGCAC-GAGAAAGAAC-TAAA--
+
+Query  512   G-G--AC-GAAG-C-C-A-AGAGATAG-GC-CGA--G--ATAAAACGGAGAACAATAAG-
+             | |  ||  ||| | | | ||| | || || |||  |  | ||||   | || || ||| 
+Sbjct  497   GAGCCACA-AAGACACAATAGA-A-AGTGCTCGACGGACA-AAAA---A-AA-AA-AAGA
+
+Query  572   -GGAGAC-C--AT-G-GAGAGC--AAAC--CAACCGCAA-CAAA--TAA-A-GGGGGGGA
+               ||||| |  || |  | | |  ||||   ||  | || ||||   || |       ||
+Sbjct  557   A-GAGACACAAATAGA-A-A-CAAAAACAA-AA--G-AAGCAAACG-AATAT------GA
+
+Query  632   CAAA-AACAAGACCAAC--CC-AAA-C-TGT-CA-G----A-CA-G-GA-A-GAGC-AAT
+             ||||  | || ||||||  || ||| |  || || |    | || |  | |  ||| || 
+Sbjct  617   CAAAG-A-AA-ACCAACTACCAAAAGCA-GTACATGACACATCATGC-ACAC-AGCGAA-
+
+Query  692   AAC--CAAGACA-GAA-GAA-G-AAACAGGA--GACAAACA-AC--AT--AA-TA--TA-
+             |||  ||| | | |||  || | |||||  |   | ||| | ||  ||  ||  |   | 
+Sbjct  677   AACAACAA-A-ATGAAC-AACGAAAACA--ACC-A-AAA-AGACGAATCGAAC-AGG-AG
+
+Query  752   AGA-GCA-CCTAGCTAACAAAAAAGA---CCAGCAAACGGATTAAGA-AGAT--AAAGAA
+             ||| | | ||   |   |||||||||   ||  | |||    ||||| | ||  ||||||
+Sbjct  737   AGAGG-ATCC---C---CAAAAAAGAGGGCC--C-AAC----TAAGACA-ATGCAAAGAA
+
+Query  812   A----AC---G--T----AA-AGAA-C-A-GTC-AAG---GAACAAGCGA----TAATAA
+             |    ||   |  |    || |||| | |   | |||   |||| ||| |    ||| ||
+Sbjct  797   ACGCGACAAAGCCTCGCCAACAGAATCAAC--CAAAGCATGAAC-AGC-ACTTTTAA-AA
+
+Query  872   -ATG-CAGG-G-AAAAAATGG-G--GA-CAG-ACGAAG--GAAACAACCA-G-AAATAAT
+              |||   || |        || |  || ||| |||  |      |||  | | ||| |||
+Sbjct  857   CATGT--GGCGC-------GGCGTCGAGCAGTACG--GTT----CAA--ATGCAAA-AAT
+
+Query  932   CTA-ACGCATCGCAGAAGATGACACTGCGA--GAA-AATACGAGCCGT-ATACGACAC-A
+              || |   |    | || | |||| ||| |  |||     |   |||| | | || || |
+Sbjct  917   -TACA---A----A-AA-A-GACA-TGC-ACTGAAC----C---CCGTAA-A-GA-ACGA
+
+Query  992   -AAAC--C--G--GGAA-TAA-A-GA-AA---AAAACCATACC-CAA-AA-AGA-ACA-A
+              ||||  |  |  ||||  || |  | ||   ||||  | |||  || || ||| |||  
+Sbjct  977   GAAACTTCAAGAAGGAAG-AAGAC-ATAAGCCAAAA--A-ACCA-AATAATAGACACAG-
+
+Query  1052  C-GCGA-AAGATGAAACGCTCC--C-AAC--TC-G----G-A---TGAG-CAAAGCCGCC
+             |  |||  | |  ||| || ||  | |||   | |    | |    |||   |||  |  
+Sbjct  1037  CT-CGAG-A-A--AAA-GC-CCAACAAACGA-CAGAAAAGAAGGG-GAGT--AAG--G--
+
+Query  1112  AG--GCCAAAA-AAGAGAACCA--GAGC-AG-AGCGA--AGCTATGG-GT-A--GAAA-A
+             ||  | |||||    |||| ||  | || || | |||   ||   || || |  |||| |
+Sbjct  1097  AGAAG-CAAAAC---AGAA-CAGGG-GCGAGAA-CGACT-GC---GGAGTAATCGAAAGA
+
+Query  1172  C---ACCCTAAGCGCGGGTAGTAGA-GACGAAAA-A-TAA-AAAC-AGGC-TGAC-C-CG
+             |   |  | ||      |||  | | || ||||| | ||| |||| |  | | || |   
+Sbjct  1157  CATGA--C-AA------GTA--A-ACGA-GAAAAGATTAATAAACGA--CAT-ACACA--
+
+Query  1232  AACATAAGAGCCCACACAAGTAGAAGAACGGAAAGAAAACGAAAAGA
+             |||  || |    | |||| ||| | ||| |||| ||||  |||| |
+Sbjct  1217  AAC--AA-A----A-ACAA-TAG-A-AAC-GAAA-AAAA--AAAA-A
